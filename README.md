@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RakeshBiswal-6&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
   <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Software%20Engineering-blue?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-CSE%20Undergrad-success?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-CSE%20Undergraduate-success?style=flat-square" alt="Status" />
 </p>
 
 </div>
