@@ -55,23 +55,12 @@
 
 ---
 
-### 📊 GitHub Real-Time Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RakeshBiswal-6&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshBiswal-6&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshBiswal-6&theme=radical&hide_border=true" width="97%" />
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake Animation
+### 🐍 Snake Animation
 
 <div align="center">
-  <p><i>Watch the retro snake eat my GitHub contribution dots!</i></p>
+  <p><i> snake eat dots!</i></p>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RakeshBiswal-6/RakeshBiswal-6/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RakeshBiswal-6/RakeshBiswal-6/output/github-contribution-grid-snake.svg" />
@@ -83,7 +72,7 @@
 
 <div align="center">
 
-<p><b>Defend the galaxy, dodge incoming plasma, and beat your high score in this responsive arcade shooter!</b></p>
+<p><b>Just For Fun </b></p>
 
 [![Play NEON STRIKE](https://img.shields.io/badge/▶_PLAY_GAME-NEON%20STRIKE-54F6FF?style=for-the-badge&logo=gamepad&logoColor=070817)](https://rakeshbiswal-6.github.io/neon-space-shooter/)
 
