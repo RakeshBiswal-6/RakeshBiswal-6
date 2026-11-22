@@ -72,9 +72,11 @@
 
 <div align="center">
   <p><i>Watch the retro snake eat my GitHub contribution dots!</i></p>
-  <img src="https://raw.githubusercontent.com/platane/snk/master/packages/action/resources/demo.svg" alt="Contribution Snake Animation" width="100%" />
-</div>
-
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RakeshBiswal-6/RakeshBiswal-6/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RakeshBiswal-6/RakeshBiswal-6/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/RakeshBiswal-6/RakeshBiswal-6/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 ---
 
 ### 🚀 Play My Space Shooter Game — NEON STRIKE
