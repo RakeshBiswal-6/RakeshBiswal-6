@@ -18,7 +18,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨💻 About Me
 - 🔭 I’m currently working on: **Applied Machine Learning Pipelines & Environmental AI Systems**
 - 🌱 I’m currently learning: **Deep Learning, Scalable System Design & Cloud Deployment**
 - 💬 Ask me about: **Python, Scikit-Learn, Predictive Modeling, Data Science, Game Dev & DSA**
@@ -55,17 +55,17 @@
 
 ---
 
-
-
 ### 🐍 Snake Animation
 
 <div align="center">
   <p><i> snake eat dots!</i></p>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RakeshBiswal-6/RakeshBiswal-6/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RakeshBiswal-6/RakeshBiswal-6/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/RakeshBiswal-6/RakeshBiswal-6/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RakeshBiswal-6/RakeshBiswal-6/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RakeshBiswal-6/RakeshBiswal-6/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/RakeshBiswal-6/RakeshBiswal-6/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
 ---
 
 ### 🚀 Play My Space Shooter Game — NEON STRIKE
@@ -90,6 +90,7 @@
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="mailto:donarakeshbiswal@gmail.com"><img src="https://img.shields.io/badge/Email-donarakeshbiswal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/RakeshBiswal-6"><img src="https://img.shields.io/badge/GitHub-RakeshBiswal--6-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:donarakeshbiswal@gmail.com"><img src="https://img.shields.io/badge/Email-donarakeshbiswal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/RakeshBiswal-6" target="_blank"><img src="https://img.shields.io/badge/GitHub-RakeshBiswal--6-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/rakesh._.biswal" target="_blank"><img src="https://img.shields.io/badge/Instagram-rakesh._.biswal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
